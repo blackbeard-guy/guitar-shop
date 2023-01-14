@@ -1,0 +1,65 @@
+[
+    {
+        "id": "el1",
+        "name": "Guitar CORT AD810 (OP)",
+        "img": "https://elton.com.ua/images/thumbnails/2200/1800/detailed/106/01-32144.jpg",
+        "price": 110
+    },
+    
+    {
+        "id": "el2",
+        "name": "Guitar YAMAHA C40",
+        "img": "https://elton.com.ua/images/thumbnails/1956/1600/detailed/90/c40-II-main-yamaha_4s7w-ds.jpg",
+        "price": 120
+    },
+    
+    {
+        "id": "el3",
+        "name": "Guitar YAMAHA C40B",
+        "img": "https://elton.com.ua/images/thumbnails/1956/1600/detailed/90/C40BL-main.jpg",
+        "price": 160
+    },
+    
+    {
+        "id": "el4",
+        "name": "Guitar SCHECTER Shaun Morgan Signature 3TSB",
+        "img": "https://elton.com.ua/images/thumbnails/1834/1500/detailed/30/main-gitara-schecter-shaun-morgan-signature-3tsb.jpg",
+        "price": 899
+    },
+    
+    {
+        "id": "el5",
+        "name": "Guitar EKO M-24 Vintage",
+        "img": "https://elton.com.ua/images/thumbnails/1094/895/detailed/75/0cc5dde521451d4f44205ecfcef15ade.jpg",
+        "price": 919
+    },
+    
+    {
+        "id": "el6",
+        "name": "Guitar Fernandes LA-115KK PRD (Japan)",
+        "img": "https://elton.com.ua/images/thumbnails/1100/900/detailed/75/0dd0fb0b70d75775dfeb252a6ef8e9c5.jpg",
+        "price": 1699
+    },
+    
+    {
+        "id": "el7",
+        "name": "Guitar SCHECTER CORSAIR CUSTOM BB NATP",
+        "img": "https://elton.com.ua/images/thumbnails/1834/1500/detailed/30/custom-corsair-natp.jpg",
+        "price": 1699
+    },
+    
+    {
+        "id": "el8",
+        "name": "Guitar WARWICK RockBass Vampyre, 4-String (Solid Black High Polish)",
+        "img": "https://elton.com.ua/images/thumbnails/1162/950/detailed/97/01-38418.jpg",
+        "price": 849
+    },
+    
+    {
+        "id": "el9",
+        "name": "Guitar CORT A5 Ultra Ash (Etched Natural Black)",
+        "img": "https://elton.com.ua/images/ab__webp/thumbnails/1956/1600/detailed/97/01-38909_jpg.webp",
+        "price": 1199
+    }
+    
+]
